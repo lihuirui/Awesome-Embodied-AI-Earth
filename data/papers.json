@@ -1,0 +1,226 @@
+[
+  {
+    "id": "2405.14093",
+    "title": "A Survey on Vision-Language-Action Models for Embodied AI",
+    "year": "2024",
+    "authors": "Yueen Ma et al.",
+    "url": "https://arxiv.org/abs/2405.14093",
+    "tags": [
+      "survey",
+      "vla"
+    ],
+    "code": "https://github.com/yueen-ma/Awesome-VLA"
+  },
+  {
+    "id": "2407.06886",
+    "title": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI",
+    "year": "2024",
+    "authors": "Yang Liu et al.",
+    "url": "https://arxiv.org/abs/2407.06886",
+    "tags": [
+      "survey",
+      "embodied"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2510.07077",
+    "title": "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications",
+    "year": "2025",
+    "authors": "Kento Kawaharazuka et al.",
+    "url": "https://arxiv.org/abs/2510.07077",
+    "tags": [
+      "survey",
+      "vla"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2312.08782",
+    "title": "Toward General-Purpose Robots via Foundation Models: A Survey and Beyond",
+    "year": "2023",
+    "authors": "Yafei Hu et al.",
+    "url": "https://arxiv.org/abs/2312.08782",
+    "tags": [
+      "survey",
+      "foundation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2212.06817",
+    "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+    "year": "2022",
+    "authors": "Anthony Brohan et al.",
+    "url": "https://arxiv.org/abs/2212.06817",
+    "tags": [
+      "vla",
+      "rt"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2307.15818",
+    "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+    "year": "2023",
+    "authors": "Brianna Zitkovich et al.",
+    "url": "https://arxiv.org/abs/2307.15818",
+    "tags": [
+      "vla",
+      "rt"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2310.08864",
+    "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
+    "year": "2023",
+    "authors": "Abby O'Neill et al.",
+    "url": "https://arxiv.org/abs/2310.08864",
+    "tags": [
+      "dataset",
+      "rtx"
+    ],
+    "code": "https://robotics-transformer-x.github.io/"
+  },
+  {
+    "id": "2406.09246",
+    "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+    "year": "2024",
+    "authors": "Moo Jin Kim et al.",
+    "url": "https://arxiv.org/abs/2406.09246",
+    "tags": [
+      "vla"
+    ],
+    "code": "https://github.com/openvla/openvla"
+  },
+  {
+    "id": "2405.12213",
+    "title": "Octo: An Open-Source Generalist Robot Policy",
+    "year": "2024",
+    "authors": "Octo Model Team et al.",
+    "url": "https://arxiv.org/abs/2405.12213",
+    "tags": [
+      "policy"
+    ],
+    "code": "https://github.com/octo-models/octo"
+  },
+  {
+    "id": "2410.24164",
+    "title": "π0: A Vision-Language-Action Flow Model for General Robot Control",
+    "year": "2024",
+    "authors": "Physical Intelligence et al.",
+    "url": "https://arxiv.org/abs/2410.24164",
+    "tags": [
+      "vla",
+      "pi0"
+    ],
+    "code": "https://github.com/Physical-Intelligence/openpi"
+  },
+  {
+    "id": "2504.16054",
+    "title": "π0.5: a Vision-Language-Action Model with Open-World Generalization",
+    "year": "2025",
+    "authors": "Physical Intelligence et al.",
+    "url": "https://arxiv.org/abs/2504.16054",
+    "tags": [
+      "vla",
+      "pi0"
+    ],
+    "code": "https://github.com/Physical-Intelligence/openpi"
+  },
+  {
+    "id": "2204.01691",
+    "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+    "year": "2022",
+    "authors": "Michael Ahn et al.",
+    "url": "https://arxiv.org/abs/2204.01691",
+    "tags": [
+      "llm",
+      "saycan"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2310.12931",
+    "title": "Eureka: Human-Level Reward Design via Coding Large Language Models",
+    "year": "2023",
+    "authors": "Yecheng Jason Ma et al.",
+    "url": "https://arxiv.org/abs/2310.12931",
+    "tags": [
+      "llm",
+      "reward"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2410.06158",
+    "title": "GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation",
+    "year": "2024",
+    "authors": "Chi-Lam Cheang et al.",
+    "url": "https://arxiv.org/abs/2410.06158",
+    "tags": [
+      "vla",
+      "video"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2402.19469",
+    "title": "Humanoid Locomotion as Next Token Prediction",
+    "year": "2024",
+    "authors": "Ilija Radosavovic et al.",
+    "url": "https://arxiv.org/abs/2402.19469",
+    "tags": [
+      "humanoid"
+    ],
+    "code": ""
+  },
+  {
+    "id": "1904.01201",
+    "title": "Habitat: A Platform for Embodied AI Research",
+    "year": "2019",
+    "authors": "Manolis Savva et al.",
+    "url": "https://arxiv.org/abs/1904.01201",
+    "tags": [
+      "sim"
+    ],
+    "code": "https://github.com/facebookresearch/habitat-sim"
+  },
+  {
+    "id": "2310.19495",
+    "title": "Deep Learning for Visual Navigation of Underwater Robots",
+    "year": "2023",
+    "authors": "",
+    "url": "https://arxiv.org/abs/2310.19495",
+    "tags": [
+      "underwater",
+      "survey"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2412.11840",
+    "title": "Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges",
+    "year": "2024",
+    "authors": "",
+    "url": "https://arxiv.org/abs/2412.11840",
+    "tags": [
+      "underwater",
+      "sonar"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2211.02869",
+    "title": "Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes",
+    "year": "2022",
+    "authors": "",
+    "url": "https://arxiv.org/abs/2211.02869",
+    "tags": [
+      "disaster",
+      "landslide"
+    ],
+    "code": "https://github.com/iprapas/landslide-sar-unet"
+  }
+]
