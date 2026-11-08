@@ -4,7 +4,7 @@
 
 > 收录具身智能（Embodied AI）代表性工作，并**着重**地球科学 / 水文相关应用：水下与海洋机器人、建筑与基础设施机器人、灾害防治与应急、环境与水文监测。
 
-**Last updated:** 2026-11-05 (Asia/Shanghai)
+**Last updated:** 2026-11-08 (Asia/Shanghai)
 
 **Rules:** only verified links (arXiv / GitHub / publisher). Do **not** invent titles, IDs, or stars. Seed list in [`data/papers.json`](data/papers.json).
 
@@ -34,6 +34,7 @@
 - **Deep Learning for Visual Navigation of Underwater Robots** (2023) [[arXiv](https://arxiv.org/abs/2310.19495)] — _Underwater visual nav: perception, datasets, IL/RL._
 - **Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges** (2024) [[arXiv](https://arxiv.org/abs/2412.11840)] — _Sonar DL perception/SLAM + robustness gaps._
 - **A Survey on Unmanned Surface Vehicles for Disaster Robotics: Main Challenges and Directions** — Jorge et al. (2019) [[MDPI Sensors](https://www.mdpi.com/1424-8220/19/3/702)] — _USVs for disaster robotics (flood/landslide-related sensing)._
+- **State-of-the-Art Underwater Vehicles and Technologies Enabling Smart Ocean: Survey and Classifications** — Jiajie Xu et al. (2024) [[arXiv](https://arxiv.org/abs/2412.18667)] — _Survey and taxonomy of ROVs/AUVs/HUVs/USVs and smart-ocean enabling technologies._
 
 ## Foundation Embodied AI / 具身智能基础
 
@@ -66,6 +67,7 @@
 - **Project DAVE** — [[GitHub](https://github.com/Field-Robotics-Lab/dave)] — _Underwater vehicle simulation stack (Field Robotics Lab)._
 - **Virtual RobotX (VRX)** — [[GitHub](https://github.com/osrf/vrx)] — _Surface vessel autonomy competition / sim resources._
 - **RoboCup Rescue Simulator** — [[GitHub](https://github.com/roborescue/rcrs-server)] — _Disaster-response multi-agent simulation._
+- **AquaWorld: Structure-Consistent Underwater World Generation for Robot Simulation** — Bin Peng et al. (2026) [[arXiv](https://arxiv.org/abs/2609.22670)] — _Language-conditioned underwater world generation that keeps terrain, assets, tasks, and currents consistent for robot sim._
 
 ## Earth & Hydrology Applications / 地球与水文科学应用
 
@@ -78,13 +80,20 @@
 - **BlueOS** — [[GitHub](https://github.com/bluerobotics/BlueOS)] — _Open platform for ROV / USV / robotic system ops (Blue Robotics)._
 - **UUV Simulator** — [[GitHub](https://github.com/uuvsimulator/uuv_simulator)] — _Classic Gazebo underwater robot simulation._
 - **BRUCE (BlueRov Underwater SLAM and Exploration)** — [[GitHub](https://github.com/jinkunw/bruce)] — _BlueROV SLAM / exploration codebase._
+- **Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation** — Greta Perez-Haiek et al. (2026) [[arXiv](https://arxiv.org/abs/2610.38199)] [[Project](https://lair-research-nyu.github.io/Embodied-at-Sea/)] — _Field underwater manipulation via imitation/VLA (DynamicVLA); 1616 episodes and on-hardware pool rollouts._
+- **AquaWAM: A Dynamics-aware World Action Model for Underwater Embodied Agents** — Cunhao Zhu et al. (2026) [[arXiv](https://arxiv.org/abs/2609.33299)] — _World-action model that accounts for underwater passive dynamics (inertia, buoyancy, drag, drift)._
+- **AquaBEV-Nav: Learned BEV Occupancy for Underwater Navigation and Exploration** — Trung Tien Dong et al. (2026) [[arXiv](https://arxiv.org/abs/2609.32156)] — _Learned bird's-eye-view occupancy for underwater navigation and exploration._
+- **CoralPlan: Observation Skill Selection and Execution for Underwater Robotic Inspection** — Yuer Gao et al. (2026) [[arXiv](https://arxiv.org/abs/2609.31211)] — _Selects and executes observation skills for underwater robotic inspection._
 
 ### Construction & Infrastructure / 建筑与基础设施
 
 - **Navigation2** — [[GitHub](https://github.com/ros-navigation/navigation2)] — _ROS 2 navigation stack widely used for mobile inspection robots._
 - **PX4 Autopilot** — [[GitHub](https://github.com/PX4/PX4-Autopilot)] — _Open autopilot for drones used in infrastructure inspection._
 - **mav_voxblox_planning** — [[GitHub](https://github.com/ethz-asl/mav_voxblox_planning)] — _MAV planning with voxblox maps (inspection / mapping)._
-- *More construction-robot learning papers will be added in the next refresh cycles.*
+- **Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model** — Zhaofeng Hu et al. (2025) [[arXiv](https://arxiv.org/abs/2512.14031)] — _Benchmarks hierarchical RL vs. a VLA model for sample-efficient construction-robot skill learning._
+- **Generalizable Skill Learning for Construction Robots with Crowdsourced Natural Language Instructions, Composable Skills Standardization, and Large Language Model** — Hongrui Yu et al. (2025) [[arXiv](https://arxiv.org/abs/2509.02876)] — _LLM + crowdsourced language instructions for generalizable construction-robot skill learning._
+- **Learning Interaction-Aware Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots** — Yilong Chen et al. (2026) [[arXiv](https://arxiv.org/abs/2610.34060)] — _LiDAR GNN sim-to-real framework that learns interaction-aware path corrections for construction robots._
+- **BIM-Discrepancy-Driven Active Sensing for Risk-Aware UAV-UGV Navigation** — Hesam Mojtahedi et al. (2025) [[arXiv](https://arxiv.org/abs/2511.14037)] — _Uses BIM discrepancies to drive active sensing for risk-aware UAV-UGV inspection navigation._
 
 ### Disaster Prevention & Response / 灾害防治与应急
 
@@ -92,12 +101,20 @@
 - **A Survey on Unmanned Surface Vehicles for Disaster Robotics** (2019) [[MDPI Sensors](https://www.mdpi.com/1424-8220/19/3/702)] — _USV roles in disaster scenarios incl. flood/landslide sensing._
 - **Artificial intelligence based framework for robotic search and rescue operations conducted jointly by international teams** — Magid et al. (2020) [[DOI](https://doi.org/10.1007/978-981-13-9267-2_2)] — _Heterogeneous UAV/UGV/USV/UUV teams for flood & landslide sites._
 - **RoboCup Rescue Simulator** — [[GitHub](https://github.com/roborescue/rcrs-server)] — _Standardized disaster-response robotics simulation._
+- **A Simulation-Grounded Agentic VLM Framework for Wildfire Monitoring and Reporting** — Duowen Chen et al. (2026) [[arXiv](https://arxiv.org/abs/2610.02451)] — _Agentic vision-language framework, grounded in simulation, for wildfire monitoring and reporting._
+- **Multi-Agent Reinforcement Learning for Autonomous UAV Exploration in Wildfire Response** — Caden Chandra et al. (2026) [[arXiv](https://arxiv.org/abs/2609.10433)] — _Multi-agent RL for autonomous UAV exploration during wildfire response._
+- **D3ARC: Time-Critical Distributed Disaster Detection for Asynchronous Cooperative Multi-Robot Systems** — Nikolaos Koursioumpas et al. (2026) [[arXiv](https://arxiv.org/abs/2609.07350)] — _Time-critical distributed disaster detection for asynchronous cooperative multi-robot teams._
 
 ### Environmental & Hydrological Monitoring / 环境与水文监测
 
 - **Virtual RobotX (VRX)** — [[GitHub](https://github.com/osrf/vrx)] — _Surface autonomy tasks relevant to coastal / harbor monitoring._
 - **BlueOS** — [[GitHub](https://github.com/bluerobotics/BlueOS)] — _Payload ops for ROV/USV monitoring platforms._
-- *Hydrology-specific USV / reservoir / water-quality robot papers are prioritized for upcoming updates.*
+- **Constraint-Driven Multi-USV Coverage Path Generation for Aquatic Environmental Monitoring** — Yo Toyomoto et al. (2024) [[arXiv](https://arxiv.org/abs/2411.00579)] [[DOI](https://doi.org/10.1109/TCST.2025.3572776)] — _Constraint-driven multi-USV coverage planning for aquatic environmental monitoring (IEEE TCST)._
+- **Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments** — Aiyelari Temilolorun and Yogang Singh (2024) [[arXiv](https://arxiv.org/abs/2410.09513)] — _Low-cost USV design for aquaculture water-quality monitoring in shallow waters._
+- **3D Water Quality Mapping using Invariant Extended Kalman Filtering for Underwater Robot Localization** — Kaustubh Joshi et al. (2024) [[arXiv](https://arxiv.org/abs/2409.11578)] — _Underwater-robot localization (invariant EKF) for 3D water-quality mapping in aquaculture settings._
+- **High-Resolution Water Sampling via a Solar-Powered Autonomous Surface Vehicle** — Misael Mamani et al. (2025) [[arXiv](https://arxiv.org/abs/2512.09798)] — _Solar-powered ASV that collects high-resolution water samples for environmental monitoring._
+- **Active Tracking of Marine Pollution Sources: An Uncertainty-Aware Categorical Bayesian Framework for Unmanned Surface Vehicles** — Song Ma et al. (2025) [[arXiv](https://arxiv.org/abs/2509.20593)] — _Uncertainty-aware Bayesian planner for USVs that actively track marine pollution sources._
+- **An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring** — Reuben O'Brien et al. (2024) [[arXiv](https://arxiv.org/abs/2610.07398)] [[DOI](https://doi.org/10.1109/IROS58592.2024.10801622)] — _Open-source 3D-printed waterjet trimaran for environmental inspection (IROS 2024; Best Application Paper finalist)._
 
 ## Datasets / 数据集
 
@@ -125,3 +142,4 @@
 - Initial seed curated 2026-11-05 (manual + verified links; Gemini capacity was limited so first fill used lightweight search).
 - Planned cadence: refresh about **every 3 days** — add newly verified arXiv/GitHub items, densify Earth/hydro sections, dedupe by arXiv id / URL.
 - PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
+- Refresh 2026-11-08: added 19 verified arXiv entries, focused on Earth/hydro (USV water-quality/monitoring, underwater embodied agents, construction-robot learning, disaster/wildfire robotics).

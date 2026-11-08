@@ -222,5 +222,239 @@
       "landslide"
     ],
     "code": "https://github.com/iprapas/landslide-sar-unet"
+  },
+  {
+    "id": "2412.18667",
+    "title": "State-of-the-Art Underwater Vehicles and Technologies Enabling Smart Ocean: Survey and Classifications",
+    "year": "2024",
+    "authors": "Jiajie Xu et al.",
+    "url": "https://arxiv.org/abs/2412.18667",
+    "tags": [
+      "survey",
+      "underwater"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2609.22670",
+    "title": "AquaWorld: Structure-Consistent Underwater World Generation for Robot Simulation",
+    "year": "2026",
+    "authors": "Bin Peng et al.",
+    "url": "https://arxiv.org/abs/2609.22670",
+    "tags": [
+      "sim",
+      "underwater"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2610.38199",
+    "title": "Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation",
+    "year": "2026",
+    "authors": "Greta Perez-Haiek et al.",
+    "url": "https://arxiv.org/abs/2610.38199",
+    "tags": [
+      "underwater",
+      "vla",
+      "manipulation"
+    ],
+    "code": "https://lair-research-nyu.github.io/Embodied-at-Sea/"
+  },
+  {
+    "id": "2609.33299",
+    "title": "AquaWAM: A Dynamics-aware World Action Model for Underwater Embodied Agents",
+    "year": "2026",
+    "authors": "Cunhao Zhu et al.",
+    "url": "https://arxiv.org/abs/2609.33299",
+    "tags": [
+      "underwater",
+      "world-model"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2609.32156",
+    "title": "AquaBEV-Nav: Learned BEV Occupancy for Underwater Navigation and Exploration",
+    "year": "2026",
+    "authors": "Trung Tien Dong et al.",
+    "url": "https://arxiv.org/abs/2609.32156",
+    "tags": [
+      "underwater",
+      "navigation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2609.31211",
+    "title": "CoralPlan: Observation Skill Selection and Execution for Underwater Robotic Inspection",
+    "year": "2026",
+    "authors": "Yuer Gao et al.",
+    "url": "https://arxiv.org/abs/2609.31211",
+    "tags": [
+      "underwater",
+      "inspection"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2512.14031",
+    "title": "Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model",
+    "year": "2025",
+    "authors": "Zhaofeng Hu et al.",
+    "url": "https://arxiv.org/abs/2512.14031",
+    "tags": [
+      "construction",
+      "vla"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2509.02876",
+    "title": "Generalizable Skill Learning for Construction Robots with Crowdsourced Natural Language Instructions, Composable Skills Standardization, and Large Language Model",
+    "year": "2025",
+    "authors": "Hongrui Yu et al.",
+    "url": "https://arxiv.org/abs/2509.02876",
+    "tags": [
+      "construction",
+      "llm"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2610.34060",
+    "title": "Learning Interaction-Aware Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots",
+    "year": "2026",
+    "authors": "Yilong Chen et al.",
+    "url": "https://arxiv.org/abs/2610.34060",
+    "tags": [
+      "construction",
+      "navigation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2511.14037",
+    "title": "BIM-Discrepancy-Driven Active Sensing for Risk-Aware UAV-UGV Navigation",
+    "year": "2025",
+    "authors": "Hesam Mojtahedi et al.",
+    "url": "https://arxiv.org/abs/2511.14037",
+    "tags": [
+      "construction",
+      "inspection"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2610.02451",
+    "title": "A Simulation-Grounded Agentic VLM Framework for Wildfire Monitoring and Reporting",
+    "year": "2026",
+    "authors": "Duowen Chen et al.",
+    "url": "https://arxiv.org/abs/2610.02451",
+    "tags": [
+      "disaster",
+      "wildfire",
+      "vlm"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2609.10433",
+    "title": "Multi-Agent Reinforcement Learning for Autonomous UAV Exploration in Wildfire Response",
+    "year": "2026",
+    "authors": "Caden Chandra et al.",
+    "url": "https://arxiv.org/abs/2609.10433",
+    "tags": [
+      "disaster",
+      "wildfire"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2609.07350",
+    "title": "D3ARC: Time-Critical Distributed Disaster Detection for Asynchronous Cooperative Multi-Robot Systems",
+    "year": "2026",
+    "authors": "Nikolaos Koursioumpas et al.",
+    "url": "https://arxiv.org/abs/2609.07350",
+    "tags": [
+      "disaster",
+      "multi-robot"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2411.00579",
+    "title": "Constraint-Driven Multi-USV Coverage Path Generation for Aquatic Environmental Monitoring",
+    "year": "2024",
+    "authors": "Yo Toyomoto et al.",
+    "url": "https://arxiv.org/abs/2411.00579",
+    "tags": [
+      "hydro",
+      "usv"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2410.09513",
+    "title": "Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments",
+    "year": "2024",
+    "authors": "Aiyelari Temilolorun and Yogang Singh",
+    "url": "https://arxiv.org/abs/2410.09513",
+    "tags": [
+      "hydro",
+      "usv",
+      "water-quality"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2409.11578",
+    "title": "3D Water Quality Mapping using Invariant Extended Kalman Filtering for Underwater Robot Localization",
+    "year": "2024",
+    "authors": "Kaustubh Joshi et al.",
+    "url": "https://arxiv.org/abs/2409.11578",
+    "tags": [
+      "hydro",
+      "underwater",
+      "water-quality"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2512.09798",
+    "title": "High-Resolution Water Sampling via a Solar-Powered Autonomous Surface Vehicle",
+    "year": "2025",
+    "authors": "Misael Mamani et al.",
+    "url": "https://arxiv.org/abs/2512.09798",
+    "tags": [
+      "hydro",
+      "usv",
+      "water-quality"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2509.20593",
+    "title": "Active Tracking of Marine Pollution Sources: An Uncertainty-Aware Categorical Bayesian Framework for Unmanned Surface Vehicles",
+    "year": "2025",
+    "authors": "Song Ma et al.",
+    "url": "https://arxiv.org/abs/2509.20593",
+    "tags": [
+      "hydro",
+      "usv",
+      "pollution"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2610.07398",
+    "title": "An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring",
+    "year": "2024",
+    "authors": "Reuben O'Brien et al.",
+    "url": "https://arxiv.org/abs/2610.07398",
+    "tags": [
+      "hydro",
+      "usv"
+    ],
+    "code": ""
   }
 ]
