@@ -4,7 +4,7 @@
 
 > 收录具身智能（Embodied AI）代表性工作，并**着重**地球科学 / 水文相关应用：水下与海洋机器人、建筑与基础设施机器人、灾害防治与应急、环境与水文监测。
 
-**Last updated:** 2026-11-08 (Asia/Shanghai)
+**Last updated:** 2026-11-11 (Asia/Shanghai)
 
 **Rules:** only verified links (arXiv / GitHub / publisher). Do **not** invent titles, IDs, or stars. Seed list in [`data/papers.json`](data/papers.json).
 
@@ -35,6 +35,7 @@
 - **Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges** (2024) [[arXiv](https://arxiv.org/abs/2412.11840)] — _Sonar DL perception/SLAM + robustness gaps._
 - **A Survey on Unmanned Surface Vehicles for Disaster Robotics: Main Challenges and Directions** — Jorge et al. (2019) [[MDPI Sensors](https://www.mdpi.com/1424-8220/19/3/702)] — _USVs for disaster robotics (flood/landslide-related sensing)._
 - **State-of-the-Art Underwater Vehicles and Technologies Enabling Smart Ocean: Survey and Classifications** — Jiajie Xu et al. (2024) [[arXiv](https://arxiv.org/abs/2412.18667)] — _Survey and taxonomy of ROVs/AUVs/HUVs/USVs and smart-ocean enabling technologies._
+- **Human-Machine Interfaces for Subsea Telerobotics: From Soda-straw to Natural Language Interactions** — Adnan Abdullah et al. (2024) [[arXiv](https://arxiv.org/abs/2412.01753)] — _Review of subsea telerobotics HMIs from narrow first-person consoles to gesture, VR, and natural-language interfaces._
 
 ## Foundation Embodied AI / 具身智能基础
 
@@ -68,6 +69,7 @@
 - **Virtual RobotX (VRX)** — [[GitHub](https://github.com/osrf/vrx)] — _Surface vessel autonomy competition / sim resources._
 - **RoboCup Rescue Simulator** — [[GitHub](https://github.com/roborescue/rcrs-server)] — _Disaster-response multi-agent simulation._
 - **AquaWorld: Structure-Consistent Underwater World Generation for Robot Simulation** — Bin Peng et al. (2026) [[arXiv](https://arxiv.org/abs/2609.22670)] — _Language-conditioned underwater world generation that keeps terrain, assets, tasks, and currents consistent for robot sim._
+- **Swim2Real: Vision-Language Models for Simulator Calibration of a Soft Robotic Fish** — Kevin Qiu et al. (2026) [[arXiv](https://arxiv.org/abs/2603.20827)] [[Code](https://github.com/kevinxqiu/swim2real)] [[Project](https://swim2real.github.io)] [[DOI](https://doi.org/10.1109/LRA.2026.3752343)] *(IEEE RA-L 2026)* — _Uses a VLM to calibrate a soft-aquatic-robot simulator from limited pool recordings._
 
 ## Earth & Hydrology Applications / 地球与水文科学应用
 
@@ -85,6 +87,15 @@
 - **AquaBEV-Nav: Learned BEV Occupancy for Underwater Navigation and Exploration** — Trung Tien Dong et al. (2026) [[arXiv](https://arxiv.org/abs/2609.32156)] — _Learned bird's-eye-view occupancy for underwater navigation and exploration._
 - **CoralPlan: Observation Skill Selection and Execution for Underwater Robotic Inspection** — Yuer Gao et al. (2026) [[arXiv](https://arxiv.org/abs/2609.31211)] — _Selects and executes observation skills for underwater robotic inspection._
 
+- **Reliability-Adaptive Multimodal Relative Pose Tracking for Underwater Leader-Follower Robots** — Mingyang Yang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.11940)] — _Reliability-adaptive visual–acoustic–hydrodynamic pose tracking for underwater leader-follower formation._
+- **FATHOM: World-Model-Guided Diffusion Action-Trajectory Selection for Sparse-Marker AUV Tracking** — Xiaorui Wang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.08898)] — _World-model-guided diffusion for cooperative AUV tracking from sparse active-light markers._
+- **Gaussian Process-Augmented Model Predictive Contouring Control for 6-DoF Trajectory Tracking with a Holonomic AUV** — David Dörner et al. (2026) [[arXiv](https://arxiv.org/abs/2611.14373)] — _6-DoF MPCC with a Gaussian-process residual for holonomic AUV close-range inspection tracking._
+- **Cognitive and Behavioural Effects of Haptic Feedback for ROV Teleoperation in Hazardous Environments** — Joshua Brown et al. (2026) [[arXiv](https://arxiv.org/abs/2611.06689)] *(IEEE Telepresence 2026)* — _In-water study of haptic feedback for ROV teleoperation under cross-currents._
+- **A Layered View of LLM Support in Underwater Robotics** — Federico Celi et al. (2026) [[arXiv](https://arxiv.org/abs/2611.06162)] *(I-RIM 3D 2026 workshop extended abstract)* — _Discusses practical LLM roles for operating underwater robots under limited communications and expensive field time._
+- **Modeling and Estimation of a Towed Marine System** — Josef Matouš et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12568)] — _Lumped-mass modeling and Lyapunov-based estimation for a dual-ASV towed towfish system._
+- **Human-Machine Interfaces for Subsea Telerobotics: From Soda-straw to Natural Language Interactions** — Adnan Abdullah et al. (2024) [[arXiv](https://arxiv.org/abs/2412.01753)] — _Survey of subsea telerobotics interfaces from first-person consoles to VR, gesture, and language._
+- **Swim2Real: Vision-Language Models for Simulator Calibration of a Soft Robotic Fish** — Kevin Qiu et al. (2026) [[arXiv](https://arxiv.org/abs/2603.20827)] [[Code](https://github.com/kevinxqiu/swim2real)] *(IEEE RA-L 2026)* — _VLM-based simulator calibration for a soft robotic fish from pool recordings._
+
 ### Construction & Infrastructure / 建筑与基础设施
 
 - **Navigation2** — [[GitHub](https://github.com/ros-navigation/navigation2)] — _ROS 2 navigation stack widely used for mobile inspection robots._
@@ -94,6 +105,10 @@
 - **Generalizable Skill Learning for Construction Robots with Crowdsourced Natural Language Instructions, Composable Skills Standardization, and Large Language Model** — Hongrui Yu et al. (2025) [[arXiv](https://arxiv.org/abs/2509.02876)] — _LLM + crowdsourced language instructions for generalizable construction-robot skill learning._
 - **Learning Interaction-Aware Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots** — Yilong Chen et al. (2026) [[arXiv](https://arxiv.org/abs/2610.34060)] — _LiDAR GNN sim-to-real framework that learns interaction-aware path corrections for construction robots._
 - **BIM-Discrepancy-Driven Active Sensing for Risk-Aware UAV-UGV Navigation** — Hesam Mojtahedi et al. (2025) [[arXiv](https://arxiv.org/abs/2511.14037)] — _Uses BIM discrepancies to drive active sensing for risk-aware UAV-UGV inspection navigation._
+
+- **A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation** — Jinhua Chen et al. (2026) [[arXiv](https://arxiv.org/abs/2611.14062)] — _HITL paradigm spanning VR teleoperation, shared control, and rule-based autonomy for dual-arm construction tasks._
+- **Joint-State Inference for Autonomous Excavators Using Cab-View Vision-Control Fusion** — Junwei Li et al. (2026) [[arXiv](https://arxiv.org/abs/2611.13690)] — _Infers excavator joint states from cab-view vision and control signals, without extra joint sensors or markers._
+- **When to Trust the BIM: Identifiability-Aware LiDAR-Inertial--BIM Fusion under As-Built Deviations** — Yujie Zhang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.09045)] — _Identifiability-aware LIO–BIM fusion that accounts for as-built deviations during robot localization._
 
 ### Disaster Prevention & Response / 灾害防治与应急
 
@@ -105,6 +120,12 @@
 - **Multi-Agent Reinforcement Learning for Autonomous UAV Exploration in Wildfire Response** — Caden Chandra et al. (2026) [[arXiv](https://arxiv.org/abs/2609.10433)] — _Multi-agent RL for autonomous UAV exploration during wildfire response._
 - **D3ARC: Time-Critical Distributed Disaster Detection for Asynchronous Cooperative Multi-Robot Systems** — Nikolaos Koursioumpas et al. (2026) [[arXiv](https://arxiv.org/abs/2609.07350)] — _Time-critical distributed disaster detection for asynchronous cooperative multi-robot teams._
 
+- **PA-SaR: Perception-Aware Learning, Control, and Coordination for Multi-Robot Search and Rescue** — Jokūbas Dimša et al. (2026) [[arXiv](https://arxiv.org/abs/2611.11648)] [[Code](https://github.com/svenschoonebeek/Perception-Aware-Search-and-Rescue)] — _Perception-aware learning and coordination for multi-robot search, rescue, and victim guidance._
+- **Cognitive Multi-Agent Search and Rescue: Language-Grounded Hierarchical Reinforcement Learning for Collaborative Robotics** — Sepideh Ravanbakhsh and Hamidreza Moradi (2026) [[arXiv](https://arxiv.org/abs/2611.13161)] — _Language-grounded hierarchical RL for coordinating heterogeneous SAR robot teams._
+- **Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers** — Antonio Dantas et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12317)] — _Data-driven random-key optimization for real-time UAV path planning in search-and-rescue missions._
+- **Beyond Memory Limits: A Hierarchical Spatio-Temporal Map Representation for Large-Scale 3D Autonomous Exploration** — Yizhe Zhang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.11489)] — _Memory-efficient hierarchical maps for UAV exploration in large-scale, including disaster-affected, environments._
+- **LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding** — Shanwen Wang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12936)] [[Code](https://github.com/wangshanwen001/LandslideFM)] — _Unified foundation model connecting landslide visual perception with contextual scene understanding._
+
 ### Environmental & Hydrological Monitoring / 环境与水文监测
 
 - **Virtual RobotX (VRX)** — [[GitHub](https://github.com/osrf/vrx)] — _Surface autonomy tasks relevant to coastal / harbor monitoring._
@@ -115,6 +136,7 @@
 - **High-Resolution Water Sampling via a Solar-Powered Autonomous Surface Vehicle** — Misael Mamani et al. (2025) [[arXiv](https://arxiv.org/abs/2512.09798)] — _Solar-powered ASV that collects high-resolution water samples for environmental monitoring._
 - **Active Tracking of Marine Pollution Sources: An Uncertainty-Aware Categorical Bayesian Framework for Unmanned Surface Vehicles** — Song Ma et al. (2025) [[arXiv](https://arxiv.org/abs/2509.20593)] — _Uncertainty-aware Bayesian planner for USVs that actively track marine pollution sources._
 - **An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring** — Reuben O'Brien et al. (2024) [[arXiv](https://arxiv.org/abs/2610.07398)] [[DOI](https://doi.org/10.1109/IROS58592.2024.10801622)] — _Open-source 3D-printed waterjet trimaran for environmental inspection (IROS 2024; Best Application Paper finalist)._
+- **Graph-Based RL for Sequential Rendezvous Planning with Multiple Patrolling USVs** — Seung Woo Han et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12205)] — _Graph-based reinforcement learning for sequential rendezvous and fleet management of patrolling unmanned surface vehicles._
 
 ## Datasets / 数据集
 
@@ -143,3 +165,4 @@
 - Planned cadence: refresh about **every 3 days** — add newly verified arXiv/GitHub items, densify Earth/hydro sections, dedupe by arXiv id / URL.
 - PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - Refresh 2026-11-08: added 19 verified arXiv entries, focused on Earth/hydro (USV water-quality/monitoring, underwater embodied agents, construction-robot learning, disaster/wildfire robotics).
+- Refresh 2026-11-11: added 17 verified arXiv entries (AUV/ROV tracking and teleoperation, USV/towfish marine systems, construction excavator/BIM localization, multi-robot SAR, landslide foundation model).

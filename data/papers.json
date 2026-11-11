@@ -456,5 +456,205 @@
       "usv"
     ],
     "code": ""
+  },
+  {
+    "id": "2412.01753",
+    "title": "Human-Machine Interfaces for Subsea Telerobotics: From Soda-straw to Natural Language Interactions",
+    "year": "2024",
+    "authors": "Adnan Abdullah et al.",
+    "url": "https://arxiv.org/abs/2412.01753",
+    "tags": [
+      "survey",
+      "underwater"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2603.20827",
+    "title": "Swim2Real: Vision-Language Models for Simulator Calibration of a Soft Robotic Fish",
+    "year": "2026",
+    "authors": "Kevin Qiu et al.",
+    "url": "https://arxiv.org/abs/2603.20827",
+    "tags": [
+      "sim",
+      "underwater"
+    ],
+    "code": "https://github.com/kevinxqiu/swim2real"
+  },
+  {
+    "id": "2611.11940",
+    "title": "Reliability-Adaptive Multimodal Relative Pose Tracking for Underwater Leader-Follower Robots",
+    "year": "2026",
+    "authors": "Mingyang Yang et al.",
+    "url": "https://arxiv.org/abs/2611.11940",
+    "tags": [
+      "underwater",
+      "navigation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.08898",
+    "title": "FATHOM: World-Model-Guided Diffusion Action-Trajectory Selection for Sparse-Marker AUV Tracking",
+    "year": "2026",
+    "authors": "Xiaorui Wang et al.",
+    "url": "https://arxiv.org/abs/2611.08898",
+    "tags": [
+      "underwater",
+      "world-model"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.14373",
+    "title": "Gaussian Process-Augmented Model Predictive Contouring Control for 6-DoF Trajectory Tracking with a Holonomic AUV",
+    "year": "2026",
+    "authors": "David Dörner et al.",
+    "url": "https://arxiv.org/abs/2611.14373",
+    "tags": [
+      "underwater",
+      "navigation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.06689",
+    "title": "Cognitive and Behavioural Effects of Haptic Feedback for ROV Teleoperation in Hazardous Environments",
+    "year": "2026",
+    "authors": "Joshua Brown et al.",
+    "url": "https://arxiv.org/abs/2611.06689",
+    "tags": [
+      "underwater"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.06162",
+    "title": "A Layered View of LLM Support in Underwater Robotics",
+    "year": "2026",
+    "authors": "Federico Celi et al.",
+    "url": "https://arxiv.org/abs/2611.06162",
+    "tags": [
+      "underwater",
+      "llm"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.12568",
+    "title": "Modeling and Estimation of a Towed Marine System",
+    "year": "2026",
+    "authors": "Josef Matouš et al.",
+    "url": "https://arxiv.org/abs/2611.12568",
+    "tags": [
+      "underwater",
+      "usv"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.12205",
+    "title": "Graph-Based RL for Sequential Rendezvous Planning with Multiple Patrolling USVs",
+    "year": "2026",
+    "authors": "Seung Woo Han et al.",
+    "url": "https://arxiv.org/abs/2611.12205",
+    "tags": [
+      "hydro",
+      "usv"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.14062",
+    "title": "A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation",
+    "year": "2026",
+    "authors": "Jinhua Chen et al.",
+    "url": "https://arxiv.org/abs/2611.14062",
+    "tags": [
+      "construction"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.13690",
+    "title": "Joint-State Inference for Autonomous Excavators Using Cab-View Vision-Control Fusion",
+    "year": "2026",
+    "authors": "Junwei Li et al.",
+    "url": "https://arxiv.org/abs/2611.13690",
+    "tags": [
+      "construction"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.09045",
+    "title": "When to Trust the BIM: Identifiability-Aware LiDAR-Inertial--BIM Fusion under As-Built Deviations",
+    "year": "2026",
+    "authors": "Yujie Zhang et al.",
+    "url": "https://arxiv.org/abs/2611.09045",
+    "tags": [
+      "construction",
+      "inspection"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.11648",
+    "title": "PA-SaR: Perception-Aware Learning, Control, and Coordination for Multi-Robot Search and Rescue",
+    "year": "2026",
+    "authors": "Jokūbas Dimša et al.",
+    "url": "https://arxiv.org/abs/2611.11648",
+    "tags": [
+      "disaster",
+      "multi-robot"
+    ],
+    "code": "https://github.com/svenschoonebeek/Perception-Aware-Search-and-Rescue"
+  },
+  {
+    "id": "2611.13161",
+    "title": "Cognitive Multi-Agent Search and Rescue: Language-Grounded Hierarchical Reinforcement Learning for Collaborative Robotics",
+    "year": "2026",
+    "authors": "Sepideh Ravanbakhsh and Hamidreza Moradi",
+    "url": "https://arxiv.org/abs/2611.13161",
+    "tags": [
+      "disaster",
+      "llm"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.12317",
+    "title": "Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers",
+    "year": "2026",
+    "authors": "Antonio Dantas et al.",
+    "url": "https://arxiv.org/abs/2611.12317",
+    "tags": [
+      "disaster"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.11489",
+    "title": "Beyond Memory Limits: A Hierarchical Spatio-Temporal Map Representation for Large-Scale 3D Autonomous Exploration",
+    "year": "2026",
+    "authors": "Yizhe Zhang et al.",
+    "url": "https://arxiv.org/abs/2611.11489",
+    "tags": [
+      "disaster",
+      "navigation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.12936",
+    "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+    "year": "2026",
+    "authors": "Shanwen Wang et al.",
+    "url": "https://arxiv.org/abs/2611.12936",
+    "tags": [
+      "disaster",
+      "landslide"
+    ],
+    "code": "https://github.com/wangshanwen001/LandslideFM"
   }
 ]
