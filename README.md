@@ -4,7 +4,7 @@
 
 > 收录具身智能（Embodied AI）代表性工作，并**着重**地球科学 / 水文相关应用：水下与海洋机器人、建筑与基础设施机器人、灾害防治与应急、环境与水文监测。
 
-**Last updated:** 2026-11-11 (Asia/Shanghai)
+**Last updated:** 2026-11-14 (Asia/Shanghai)
 
 **Rules:** only verified links (arXiv / GitHub / publisher). Do **not** invent titles, IDs, or stars. Seed list in [`data/papers.json`](data/papers.json).
 
@@ -70,6 +70,7 @@
 - **RoboCup Rescue Simulator** — [[GitHub](https://github.com/roborescue/rcrs-server)] — _Disaster-response multi-agent simulation._
 - **AquaWorld: Structure-Consistent Underwater World Generation for Robot Simulation** — Bin Peng et al. (2026) [[arXiv](https://arxiv.org/abs/2609.22670)] — _Language-conditioned underwater world generation that keeps terrain, assets, tasks, and currents consistent for robot sim._
 - **Swim2Real: Vision-Language Models for Simulator Calibration of a Soft Robotic Fish** — Kevin Qiu et al. (2026) [[arXiv](https://arxiv.org/abs/2603.20827)] [[Code](https://github.com/kevinxqiu/swim2real)] [[Project](https://swim2real.github.io)] [[DOI](https://doi.org/10.1109/LRA.2026.3752343)] *(IEEE RA-L 2026)* — _Uses a VLM to calibrate a soft-aquatic-robot simulator from limited pool recordings._
+- **SPARC: RoboCup Standard Platform for Autonomous Rescue Competition with Initial Datasets, Software, and Simulation Environments** — Yuezhong Wang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.15443)] *(IEEE SSRR 2026)* — _RoboCup Rescue standard platform (Unitree A2-W) with initial datasets, software, and simulation for autonomous rescue / embodied AI._
 
 ## Earth & Hydrology Applications / 地球与水文科学应用
 
@@ -95,6 +96,7 @@
 - **Modeling and Estimation of a Towed Marine System** — Josef Matouš et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12568)] — _Lumped-mass modeling and Lyapunov-based estimation for a dual-ASV towed towfish system._
 - **Human-Machine Interfaces for Subsea Telerobotics: From Soda-straw to Natural Language Interactions** — Adnan Abdullah et al. (2024) [[arXiv](https://arxiv.org/abs/2412.01753)] — _Survey of subsea telerobotics interfaces from first-person consoles to VR, gesture, and language._
 - **Swim2Real: Vision-Language Models for Simulator Calibration of a Soft Robotic Fish** — Kevin Qiu et al. (2026) [[arXiv](https://arxiv.org/abs/2603.20827)] [[Code](https://github.com/kevinxqiu/swim2real)] *(IEEE RA-L 2026)* — _VLM-based simulator calibration for a soft robotic fish from pool recordings._
+- **LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions** — Ehsan Khorrambakht et al. (2026) [[arXiv](https://arxiv.org/abs/2611.04518)] — _Hierarchical LLM + MILP planning with distributed onboard behaviour-tree execution for multi-AUV missions under limited communications._
 
 ### Construction & Infrastructure / 建筑与基础设施
 
@@ -109,6 +111,7 @@
 - **A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation** — Jinhua Chen et al. (2026) [[arXiv](https://arxiv.org/abs/2611.14062)] — _HITL paradigm spanning VR teleoperation, shared control, and rule-based autonomy for dual-arm construction tasks._
 - **Joint-State Inference for Autonomous Excavators Using Cab-View Vision-Control Fusion** — Junwei Li et al. (2026) [[arXiv](https://arxiv.org/abs/2611.13690)] — _Infers excavator joint states from cab-view vision and control signals, without extra joint sensors or markers._
 - **When to Trust the BIM: Identifiability-Aware LiDAR-Inertial--BIM Fusion under As-Built Deviations** — Yujie Zhang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.09045)] — _Identifiability-aware LIO–BIM fusion that accounts for as-built deviations during robot localization._
+- **Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments** — Bjorn Stragier et al. (2026) [[arXiv](https://arxiv.org/abs/2610.29647)] — _Registers scale-ambiguous VSLAM maps to 2D floor plans in partially built sites, for robotic construction tasks such as progress tracking._
 
 ### Disaster Prevention & Response / 灾害防治与应急
 
@@ -125,6 +128,10 @@
 - **Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers** — Antonio Dantas et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12317)] — _Data-driven random-key optimization for real-time UAV path planning in search-and-rescue missions._
 - **Beyond Memory Limits: A Hierarchical Spatio-Temporal Map Representation for Large-Scale 3D Autonomous Exploration** — Yizhe Zhang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.11489)] — _Memory-efficient hierarchical maps for UAV exploration in large-scale, including disaster-affected, environments._
 - **LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding** — Shanwen Wang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12936)] [[Code](https://github.com/wangshanwen001/LandslideFM)] — _Unified foundation model connecting landslide visual perception with contextual scene understanding._
+- **Terrain-Aware Thompson Sampling for Multi-Drone Search and Rescue** — Riana Gagnon Souleiman and Giovanni Beltrame (2026) [[arXiv](https://arxiv.org/abs/2611.14685)] *(DARS 2026)* — _Decentralized terrain-aware multi-drone Thompson Sampling for SAR, using lost-person behavior models over terrain._
+- **SPARC: RoboCup Standard Platform for Autonomous Rescue Competition with Initial Datasets, Software, and Simulation Environments** — Yuezhong Wang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.15443)] *(IEEE SSRR 2026)* — _Standard rescue-robot platform (Unitree A2-W) plus initial datasets, software, and simulation for accessible autonomous rescue research._
+- **Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling** — Yuki Kadokawa et al. (2026) [[arXiv](https://arxiv.org/abs/2611.16337)] — _Parallel policy learning so a robot can retreat when contact collapses uninspected terrain at disaster sites and unstable slopes._
+- **DisasterVLG: Vision-Language Grounding and Evidence-Based Reasoning for Disaster Scene Understanding** — Ali Diba et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12144)] — _Large-scale disaster scene dataset (1.24M images, 33M annotations) for vision-language grounding, incident assessment, and crisis VQA._
 
 ### Environmental & Hydrological Monitoring / 环境与水文监测
 
@@ -142,6 +149,8 @@
 
 - **Open X-Embodiment (OXE)** — [[arXiv](https://arxiv.org/abs/2310.08864)] [[Project](https://robotics-transformer-x.github.io/)] — _Large multi-robot manipulation corpus for VLA / RT-X._
 - **Landslide SAR datacubes** — [[arXiv](https://arxiv.org/abs/2211.02869)] [[Code](https://github.com/iprapas/landslide-sar-unet)] — _ML-ready Sentinel-1 cubes + landslide masks._
+- **SPARC** — [[arXiv](https://arxiv.org/abs/2611.15443)] — _Initial datasets, software, and simulation for the RoboCup Rescue standard platform (Unitree A2-W)._
+- **DisasterVLG** — [[arXiv](https://arxiv.org/abs/2611.12144)] — _1.24M disaster images from 142 countries with 33M annotations for captioning, incident assessment, and crisis VQA._
 
 ## Toolkits & Resources / 工具与资源
 
@@ -166,3 +175,4 @@
 - PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - Refresh 2026-11-08: added 19 verified arXiv entries, focused on Earth/hydro (USV water-quality/monitoring, underwater embodied agents, construction-robot learning, disaster/wildfire robotics).
 - Refresh 2026-11-11: added 17 verified arXiv entries (AUV/ROV tracking and teleoperation, USV/towfish marine systems, construction excavator/BIM localization, multi-robot SAR, landslide foundation model).
+- Refresh 2026-11-14: added 6 verified arXiv entries (multi-AUV LLM planning, construction-site VSLAM-to-floor-plan registration, multi-drone SAR, RoboCup rescue standard platform, collapse-reactive retreat, disaster vision-language dataset).

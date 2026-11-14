@@ -656,5 +656,78 @@
       "landslide"
     ],
     "code": "https://github.com/wangshanwen001/LandslideFM"
+  },
+  {
+    "id": "2611.04518",
+    "title": "LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions",
+    "year": "2026",
+    "authors": "Ehsan Khorrambakht et al.",
+    "url": "https://arxiv.org/abs/2611.04518",
+    "tags": [
+      "underwater",
+      "llm",
+      "auv"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2610.29647",
+    "title": "Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments",
+    "year": "2026",
+    "authors": "Bjorn Stragier et al.",
+    "url": "https://arxiv.org/abs/2610.29647",
+    "tags": [
+      "construction",
+      "navigation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.14685",
+    "title": "Terrain-Aware Thompson Sampling for Multi-Drone Search and Rescue",
+    "year": "2026",
+    "authors": "Riana Gagnon Souleiman and Giovanni Beltrame",
+    "url": "https://arxiv.org/abs/2611.14685",
+    "tags": [
+      "disaster",
+      "multi-robot"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.15443",
+    "title": "SPARC: RoboCup Standard Platform for Autonomous Rescue Competition with Initial Datasets, Software, and Simulation Environments",
+    "year": "2026",
+    "authors": "Yuezhong Wang et al.",
+    "url": "https://arxiv.org/abs/2611.15443",
+    "tags": [
+      "disaster",
+      "dataset",
+      "sim"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.16337",
+    "title": "Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling",
+    "year": "2026",
+    "authors": "Yuki Kadokawa et al.",
+    "url": "https://arxiv.org/abs/2611.16337",
+    "tags": [
+      "disaster"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.12144",
+    "title": "DisasterVLG: Vision-Language Grounding and Evidence-Based Reasoning for Disaster Scene Understanding",
+    "year": "2026",
+    "authors": "Ali Diba et al.",
+    "url": "https://arxiv.org/abs/2611.12144",
+    "tags": [
+      "disaster",
+      "dataset"
+    ],
+    "code": ""
   }
 ]
