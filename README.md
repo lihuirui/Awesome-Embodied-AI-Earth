@@ -4,7 +4,7 @@
 
 > 收录具身智能（Embodied AI）代表性工作，并**着重**地球科学 / 水文相关应用：水下与海洋机器人、建筑与基础设施机器人、灾害防治与应急、环境与水文监测。
 
-**Last updated:** 2026-11-14 (Asia/Shanghai)
+**Last updated:** 2026-11-17 (Asia/Shanghai)
 
 **Rules:** only verified links (arXiv / GitHub / publisher). Do **not** invent titles, IDs, or stars. Seed list in [`data/papers.json`](data/papers.json).
 
@@ -97,6 +97,7 @@
 - **Human-Machine Interfaces for Subsea Telerobotics: From Soda-straw to Natural Language Interactions** — Adnan Abdullah et al. (2024) [[arXiv](https://arxiv.org/abs/2412.01753)] — _Survey of subsea telerobotics interfaces from first-person consoles to VR, gesture, and language._
 - **Swim2Real: Vision-Language Models for Simulator Calibration of a Soft Robotic Fish** — Kevin Qiu et al. (2026) [[arXiv](https://arxiv.org/abs/2603.20827)] [[Code](https://github.com/kevinxqiu/swim2real)] *(IEEE RA-L 2026)* — _VLM-based simulator calibration for a soft robotic fish from pool recordings._
 - **LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions** — Ehsan Khorrambakht et al. (2026) [[arXiv](https://arxiv.org/abs/2611.04518)] — _Hierarchical LLM + MILP planning with distributed onboard behaviour-tree execution for multi-AUV missions under limited communications._
+- **M-CROSS: A Multisensor Simulation Dataset for SLAM across Water--Land Transitions** — Yan Dong et al. (2026) [[arXiv](https://arxiv.org/abs/2611.19765)] — _Multisensor simulation dataset and benchmark for SLAM across continuous water–land transitions (LiDAR, sonar, stereo, IMU, DVL, depth)._
 
 ### Construction & Infrastructure / 建筑与基础设施
 
@@ -132,6 +133,7 @@
 - **SPARC: RoboCup Standard Platform for Autonomous Rescue Competition with Initial Datasets, Software, and Simulation Environments** — Yuezhong Wang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.15443)] *(IEEE SSRR 2026)* — _Standard rescue-robot platform (Unitree A2-W) plus initial datasets, software, and simulation for accessible autonomous rescue research._
 - **Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling** — Yuki Kadokawa et al. (2026) [[arXiv](https://arxiv.org/abs/2611.16337)] — _Parallel policy learning so a robot can retreat when contact collapses uninspected terrain at disaster sites and unstable slopes._
 - **DisasterVLG: Vision-Language Grounding and Evidence-Based Reasoning for Disaster Scene Understanding** — Ali Diba et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12144)] — _Large-scale disaster scene dataset (1.24M images, 33M annotations) for vision-language grounding, incident assessment, and crisis VQA._
+- **RescueVLM: Model-Agnostic Vision-Language Framework for Rescue Drone Imagery** — Niklas Voigt et al. (2026) [[arXiv](https://arxiv.org/abs/2611.18813)] [[Code](https://github.com/RoblabWh/RescueVLM)] — _On-premise, training-free, model-agnostic VLM triage for rescue-drone imagery: ranked shortlist, SVG overlays, and a GPS map from a natural-language query._
 
 ### Environmental & Hydrological Monitoring / 环境与水文监测
 
@@ -144,6 +146,7 @@
 - **Active Tracking of Marine Pollution Sources: An Uncertainty-Aware Categorical Bayesian Framework for Unmanned Surface Vehicles** — Song Ma et al. (2025) [[arXiv](https://arxiv.org/abs/2509.20593)] — _Uncertainty-aware Bayesian planner for USVs that actively track marine pollution sources._
 - **An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring** — Reuben O'Brien et al. (2024) [[arXiv](https://arxiv.org/abs/2610.07398)] [[DOI](https://doi.org/10.1109/IROS58592.2024.10801622)] — _Open-source 3D-printed waterjet trimaran for environmental inspection (IROS 2024; Best Application Paper finalist)._
 - **Graph-Based RL for Sequential Rendezvous Planning with Multiple Patrolling USVs** — Seung Woo Han et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12205)] — _Graph-based reinforcement learning for sequential rendezvous and fleet management of patrolling unmanned surface vehicles._
+- **In Situ Monitoring and Predictive Modeling of Harmful Algal Blooms with Autonomous Surface Vehicles** — Nenyi Kweku Nkensen Dadson et al. (2026) [[arXiv](https://arxiv.org/abs/2611.18501)] — _BlueBoat ASV field system for in-situ water-quality / harmful algal bloom monitoring with a depth-controlled sonde, side-scan sonar, and event-camera payloads (Lake Pontchartrain)._
 
 ## Datasets / 数据集
 
@@ -151,6 +154,7 @@
 - **Landslide SAR datacubes** — [[arXiv](https://arxiv.org/abs/2211.02869)] [[Code](https://github.com/iprapas/landslide-sar-unet)] — _ML-ready Sentinel-1 cubes + landslide masks._
 - **SPARC** — [[arXiv](https://arxiv.org/abs/2611.15443)] — _Initial datasets, software, and simulation for the RoboCup Rescue standard platform (Unitree A2-W)._
 - **DisasterVLG** — [[arXiv](https://arxiv.org/abs/2611.12144)] — _1.24M disaster images from 142 countries with 33M annotations for captioning, incident assessment, and crisis VQA._
+- **M-CROSS** — [[arXiv](https://arxiv.org/abs/2611.19765)] — _Multisensor simulation dataset and benchmark for SLAM across continuous water–land transitions._
 
 ## Toolkits & Resources / 工具与资源
 
@@ -176,3 +180,4 @@
 - Refresh 2026-11-08: added 19 verified arXiv entries, focused on Earth/hydro (USV water-quality/monitoring, underwater embodied agents, construction-robot learning, disaster/wildfire robotics).
 - Refresh 2026-11-11: added 17 verified arXiv entries (AUV/ROV tracking and teleoperation, USV/towfish marine systems, construction excavator/BIM localization, multi-robot SAR, landslide foundation model).
 - Refresh 2026-11-14: added 6 verified arXiv entries (multi-AUV LLM planning, construction-site VSLAM-to-floor-plan registration, multi-drone SAR, RoboCup rescue standard platform, collapse-reactive retreat, disaster vision-language dataset).
+- Refresh 2026-11-17: added 3 verified arXiv entries (water–land transition SLAM dataset M-CROSS, rescue-drone VLM triage RescueVLM, ASV in-situ harmful algal bloom / water-quality monitoring).

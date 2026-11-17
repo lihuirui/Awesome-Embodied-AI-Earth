@@ -729,5 +729,43 @@
       "dataset"
     ],
     "code": ""
+  },
+  {
+    "id": "2611.18501",
+    "title": "In Situ Monitoring and Predictive Modeling of Harmful Algal Blooms with Autonomous Surface Vehicles",
+    "year": "2026",
+    "authors": "Nenyi Kweku Nkensen Dadson et al.",
+    "url": "https://arxiv.org/abs/2611.18501",
+    "tags": [
+      "hydro",
+      "usv",
+      "water-quality"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.19765",
+    "title": "M-CROSS: A Multisensor Simulation Dataset for SLAM across Water--Land Transitions",
+    "year": "2026",
+    "authors": "Yan Dong et al.",
+    "url": "https://arxiv.org/abs/2611.19765",
+    "tags": [
+      "underwater",
+      "dataset",
+      "sim"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.18813",
+    "title": "RescueVLM: Model-Agnostic Vision-Language Framework for Rescue Drone Imagery",
+    "year": "2026",
+    "authors": "Niklas Voigt et al.",
+    "url": "https://arxiv.org/abs/2611.18813",
+    "tags": [
+      "disaster",
+      "vlm"
+    ],
+    "code": "https://github.com/RoblabWh/RescueVLM"
   }
 ]
