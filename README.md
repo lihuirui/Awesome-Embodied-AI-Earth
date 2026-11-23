@@ -4,7 +4,7 @@
 
 > 收录具身智能（Embodied AI）代表性工作，并**着重**地球科学 / 水文相关应用：水下与海洋机器人、建筑与基础设施机器人、灾害防治与应急、环境与水文监测。
 
-**Last updated:** 2026-11-17 (Asia/Shanghai)
+**Last updated:** 2026-11-23 (Asia/Shanghai)
 
 **Rules:** only verified links (arXiv / GitHub / publisher). Do **not** invent titles, IDs, or stars. Seed list in [`data/papers.json`](data/papers.json).
 
@@ -71,6 +71,7 @@
 - **AquaWorld: Structure-Consistent Underwater World Generation for Robot Simulation** — Bin Peng et al. (2026) [[arXiv](https://arxiv.org/abs/2609.22670)] — _Language-conditioned underwater world generation that keeps terrain, assets, tasks, and currents consistent for robot sim._
 - **Swim2Real: Vision-Language Models for Simulator Calibration of a Soft Robotic Fish** — Kevin Qiu et al. (2026) [[arXiv](https://arxiv.org/abs/2603.20827)] [[Code](https://github.com/kevinxqiu/swim2real)] [[Project](https://swim2real.github.io)] [[DOI](https://doi.org/10.1109/LRA.2026.3752343)] *(IEEE RA-L 2026)* — _Uses a VLM to calibrate a soft-aquatic-robot simulator from limited pool recordings._
 - **SPARC: RoboCup Standard Platform for Autonomous Rescue Competition with Initial Datasets, Software, and Simulation Environments** — Yuezhong Wang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.15443)] *(IEEE SSRR 2026)* — _RoboCup Rescue standard platform (Unitree A2-W) with initial datasets, software, and simulation for autonomous rescue / embodied AI._
+- **ASTRA: ASV Simulator for Transferable Realistic Autonomy** — Tsimafei Lazouski et al. (2026) [[arXiv](https://arxiv.org/abs/2611.21789)] [[Code](https://github.com/UMich-CURLY/ASTRA)] — _Open-source Isaac Sim + ROS 2 ASV simulator with Fossen-style dynamics, waves, and a BlueBoat sensor stack for sim-to-real marine autonomy._
 
 ## Earth & Hydrology Applications / 地球与水文科学应用
 
@@ -98,6 +99,13 @@
 - **Swim2Real: Vision-Language Models for Simulator Calibration of a Soft Robotic Fish** — Kevin Qiu et al. (2026) [[arXiv](https://arxiv.org/abs/2603.20827)] [[Code](https://github.com/kevinxqiu/swim2real)] *(IEEE RA-L 2026)* — _VLM-based simulator calibration for a soft robotic fish from pool recordings._
 - **LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions** — Ehsan Khorrambakht et al. (2026) [[arXiv](https://arxiv.org/abs/2611.04518)] — _Hierarchical LLM + MILP planning with distributed onboard behaviour-tree execution for multi-AUV missions under limited communications._
 - **M-CROSS: A Multisensor Simulation Dataset for SLAM across Water--Land Transitions** — Yan Dong et al. (2026) [[arXiv](https://arxiv.org/abs/2611.19765)] — _Multisensor simulation dataset and benchmark for SLAM across continuous water–land transitions (LiDAR, sonar, stereo, IMU, DVL, depth)._
+- **NereidVLA: Learning to Understand and Navigate the Underwater World** — Chenjie Zhao et al. (2026) [[arXiv](https://arxiv.org/abs/2611.24864)] [[Code](https://github.com/SKY-Zhu-91/NereidVLA)] — _Underwater VLA that transfers marine spatial pretraining (Sea2Know) to language-conditioned 3D navigation; 78.75% success in laboratory-pool trials._
+- **BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles** — Adolfo Damiano Cafaro et al. (2026) [[arXiv](https://arxiv.org/abs/2611.27817)] — _Sonar-inertial SLAM that uses forward-looking sonar as the only exteroceptive sensor, estimating seabed altitude to recover metric scale without a DVL._
+- **Joint Optimization of Fleet Size, Localization Infrastructure, and Trajectories for Multi-AUV Persistent Monitoring** — Jan Mikołajczyk et al. (2026) [[arXiv](https://arxiv.org/abs/2611.27539)] — _Jointly optimizes fleet size, localization infrastructure, and trajectories for persistent multi-AUV monitoring of subsea infrastructure (e.g. offshore wind foundations and cables)._
+- **Learning-Based System Identification for DVL-Constrained AUV Localization** — Mingxi Zhou et al. (2026) [[arXiv](https://arxiv.org/abs/2611.25854)] — _Learns feedforward networks to predict AUV velocity for inertial localization when DVL bottom lock is unavailable._
+- **Differentiable Hydrodynamics for Whole-Body MPC of Underwater Robots** — Hefan Wang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.25373)] — _Differentiable analytical hydrodynamics for real-time whole-body MPC of underwater vehicle–manipulator systems._
+- **TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception** — Geonmo Yang, Younggun Cho (2024) [[arXiv](https://arxiv.org/abs/2611.22224)] [[Code](https://github.com/sparolab/TRIDENT)] *(IEEE Sensors Journal 2024)* — _Lightweight triple-task network for underwater dehazing, depth, and uncertainty, aimed at 3-D robot visual perception._
+- **ASTRA: ASV Simulator for Transferable Realistic Autonomy** — Tsimafei Lazouski et al. (2026) [[arXiv](https://arxiv.org/abs/2611.21789)] [[Code](https://github.com/UMich-CURLY/ASTRA)] — _Open-source Isaac Sim + ROS 2 ASV simulator with Fossen-style dynamics, waves, and a BlueBoat sensor stack for sim-to-real marine autonomy._
 
 ### Construction & Infrastructure / 建筑与基础设施
 
@@ -134,6 +142,8 @@
 - **Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling** — Yuki Kadokawa et al. (2026) [[arXiv](https://arxiv.org/abs/2611.16337)] — _Parallel policy learning so a robot can retreat when contact collapses uninspected terrain at disaster sites and unstable slopes._
 - **DisasterVLG: Vision-Language Grounding and Evidence-Based Reasoning for Disaster Scene Understanding** — Ali Diba et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12144)] — _Large-scale disaster scene dataset (1.24M images, 33M annotations) for vision-language grounding, incident assessment, and crisis VQA._
 - **RescueVLM: Model-Agnostic Vision-Language Framework for Rescue Drone Imagery** — Niklas Voigt et al. (2026) [[arXiv](https://arxiv.org/abs/2611.18813)] [[Code](https://github.com/RoblabWh/RescueVLM)] — _On-premise, training-free, model-agnostic VLM triage for rescue-drone imagery: ranked shortlist, SVG overlays, and a GPS map from a natural-language query._
+- **I See You: Initial Multi-Robot LiDAR Registration with Mutual-Observation Checks** — Jonathan Lichtenfeld, Oskar von Stryk (2026) [[arXiv](https://arxiv.org/abs/2611.26276)] — _Infrastructure-free initial multi-robot LiDAR registration with mutual-observation checks, motivated by parallel SAR coverage._
+- **Drone Navigation for Fast, Safe Emergency Response** — Pranav Nedunghat et al. (2026) [[arXiv](https://arxiv.org/abs/2611.19818)] — _Real-time minimum-time UAV trajectories with obstacle-avoidance guarantees for emergency supply delivery and survivor search._
 
 ### Environmental & Hydrological Monitoring / 环境与水文监测
 
@@ -147,6 +157,7 @@
 - **An Autonomous, 3D Printed, Waterjet-Powered, Open-Source Robotic Trimaran for Environmental Inspection and Monitoring** — Reuben O'Brien et al. (2024) [[arXiv](https://arxiv.org/abs/2610.07398)] [[DOI](https://doi.org/10.1109/IROS58592.2024.10801622)] — _Open-source 3D-printed waterjet trimaran for environmental inspection (IROS 2024; Best Application Paper finalist)._
 - **Graph-Based RL for Sequential Rendezvous Planning with Multiple Patrolling USVs** — Seung Woo Han et al. (2026) [[arXiv](https://arxiv.org/abs/2611.12205)] — _Graph-based reinforcement learning for sequential rendezvous and fleet management of patrolling unmanned surface vehicles._
 - **In Situ Monitoring and Predictive Modeling of Harmful Algal Blooms with Autonomous Surface Vehicles** — Nenyi Kweku Nkensen Dadson et al. (2026) [[arXiv](https://arxiv.org/abs/2611.18501)] — _BlueBoat ASV field system for in-situ water-quality / harmful algal bloom monitoring with a depth-controlled sonde, side-scan sonar, and event-camera payloads (Lake Pontchartrain)._
+- **Better Calibrated, Better Planned: Uncertainty-Aware Multi-ASV Informative Path Planning for Oil Spill Monitoring** — Alejandro Casado-Pérez et al. (2026) [[arXiv](https://arxiv.org/abs/2611.21783)] — _Uncertainty-calibrated informative path planning for multi-ASV oil-spill monitoring under time and energy limits._
 
 ## Datasets / 数据集
 
@@ -181,3 +192,4 @@
 - Refresh 2026-11-11: added 17 verified arXiv entries (AUV/ROV tracking and teleoperation, USV/towfish marine systems, construction excavator/BIM localization, multi-robot SAR, landslide foundation model).
 - Refresh 2026-11-14: added 6 verified arXiv entries (multi-AUV LLM planning, construction-site VSLAM-to-floor-plan registration, multi-drone SAR, RoboCup rescue standard platform, collapse-reactive retreat, disaster vision-language dataset).
 - Refresh 2026-11-17: added 3 verified arXiv entries (water–land transition SLAM dataset M-CROSS, rescue-drone VLM triage RescueVLM, ASV in-situ harmful algal bloom / water-quality monitoring).
+- Refresh 2026-11-23: added 10 verified arXiv entries (underwater VLA NereidVLA, sonar SLAM BRINA, multi-AUV persistent monitoring, DVL-constrained AUV localization, differentiable hydrodynamics MPC, TRIDENT underwater perception, ASV simulator ASTRA, multi-ASV oil-spill monitoring, multi-robot SAR LiDAR registration, emergency-response UAV navigation).

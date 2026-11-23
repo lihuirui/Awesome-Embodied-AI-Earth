@@ -767,5 +767,129 @@
       "vlm"
     ],
     "code": "https://github.com/RoblabWh/RescueVLM"
+  },
+  {
+    "id": "2611.24864",
+    "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
+    "year": "2026",
+    "authors": "Chenjie Zhao et al.",
+    "url": "https://arxiv.org/abs/2611.24864",
+    "tags": [
+      "underwater",
+      "vla",
+      "navigation"
+    ],
+    "code": "https://github.com/SKY-Zhu-91/NereidVLA"
+  },
+  {
+    "id": "2611.27817",
+    "title": "BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles",
+    "year": "2026",
+    "authors": "Adolfo Damiano Cafaro et al.",
+    "url": "https://arxiv.org/abs/2611.27817",
+    "tags": [
+      "underwater",
+      "sonar",
+      "navigation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.27539",
+    "title": "Joint Optimization of Fleet Size, Localization Infrastructure, and Trajectories for Multi-AUV Persistent Monitoring",
+    "year": "2026",
+    "authors": "Jan Mikołajczyk et al.",
+    "url": "https://arxiv.org/abs/2611.27539",
+    "tags": [
+      "underwater",
+      "auv",
+      "inspection"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.25854",
+    "title": "Learning-Based System Identification for DVL-Constrained AUV Localization",
+    "year": "2026",
+    "authors": "Mingxi Zhou et al.",
+    "url": "https://arxiv.org/abs/2611.25854",
+    "tags": [
+      "underwater",
+      "navigation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.25373",
+    "title": "Differentiable Hydrodynamics for Whole-Body MPC of Underwater Robots",
+    "year": "2026",
+    "authors": "Hefan Wang et al.",
+    "url": "https://arxiv.org/abs/2611.25373",
+    "tags": [
+      "underwater",
+      "manipulation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.22224",
+    "title": "TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception",
+    "year": "2024",
+    "authors": "Geonmo Yang, Younggun Cho",
+    "url": "https://arxiv.org/abs/2611.22224",
+    "tags": [
+      "underwater"
+    ],
+    "code": "https://github.com/sparolab/TRIDENT"
+  },
+  {
+    "id": "2611.21789",
+    "title": "ASTRA: ASV Simulator for Transferable Realistic Autonomy",
+    "year": "2026",
+    "authors": "Tsimafei Lazouski et al.",
+    "url": "https://arxiv.org/abs/2611.21789",
+    "tags": [
+      "sim",
+      "usv",
+      "hydro"
+    ],
+    "code": "https://github.com/UMich-CURLY/ASTRA"
+  },
+  {
+    "id": "2611.21783",
+    "title": "Better Calibrated, Better Planned: Uncertainty-Aware Multi-ASV Informative Path Planning for Oil Spill Monitoring",
+    "year": "2026",
+    "authors": "Alejandro Casado-Pérez et al.",
+    "url": "https://arxiv.org/abs/2611.21783",
+    "tags": [
+      "hydro",
+      "usv",
+      "pollution"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.26276",
+    "title": "I See You: Initial Multi-Robot LiDAR Registration with Mutual-Observation Checks",
+    "year": "2026",
+    "authors": "Jonathan Lichtenfeld, Oskar von Stryk",
+    "url": "https://arxiv.org/abs/2611.26276",
+    "tags": [
+      "disaster",
+      "multi-robot"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.19818",
+    "title": "Drone Navigation for Fast, Safe Emergency Response",
+    "year": "2026",
+    "authors": "Pranav Nedunghat et al.",
+    "url": "https://arxiv.org/abs/2611.19818",
+    "tags": [
+      "disaster",
+      "navigation"
+    ],
+    "code": ""
   }
 ]
