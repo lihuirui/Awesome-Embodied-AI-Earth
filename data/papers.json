@@ -891,5 +891,94 @@
       "navigation"
     ],
     "code": ""
+  },
+  {
+    "id": "2611.31637",
+    "title": "A Self-Organizing Swarm Control Model for Underwater Robots Based on Turing-Type Reaction-Diffusion Principles",
+    "year": "2026",
+    "authors": "Takeshi Ishida",
+    "url": "https://arxiv.org/abs/2611.31637",
+    "tags": [
+      "underwater",
+      "multi-robot"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.33118",
+    "title": "Neural Implicit Representation for Bathymetry Estimation using Sidescan Sonar Imagery",
+    "year": "2026",
+    "authors": "Tianxiang Lin et al.",
+    "url": "https://arxiv.org/abs/2611.33118",
+    "tags": [
+      "underwater",
+      "sonar",
+      "auv"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.34925",
+    "title": "One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics",
+    "year": "2026",
+    "authors": "Shuaijun Liu et al.",
+    "url": "https://arxiv.org/abs/2611.34925",
+    "tags": [
+      "underwater",
+      "sim",
+      "usv",
+      "pollution"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.28978",
+    "title": "World Models for Ocean Engineering: A Critical Review of Maritime Autonomy, Adaptive Latent Prediction, Digital Twins, and Biodiversity Monitoring",
+    "year": "2026",
+    "authors": "Basma Dokkara et al.",
+    "url": "https://arxiv.org/abs/2611.28978",
+    "tags": [
+      "survey",
+      "world-model",
+      "underwater"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.29507",
+    "title": "A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations",
+    "year": "2026",
+    "authors": "Anubhav Pandey et al.",
+    "url": "https://arxiv.org/abs/2611.29507",
+    "tags": [
+      "disaster",
+      "navigation"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.34218",
+    "title": "GeoCAM: Self-Supervised Sonar-Optical Representation Learning via Geographic Overlap Supervision",
+    "year": "2026",
+    "authors": "Fadi Abdeladhim Zidi et al.",
+    "url": "https://arxiv.org/abs/2611.34218",
+    "tags": [
+      "underwater",
+      "sonar"
+    ],
+    "code": ""
+  },
+  {
+    "id": "2611.32966",
+    "title": "Multi-Agent Coordination Through Stigmergy for Canal Network Formation on Real Terrain",
+    "year": "2026",
+    "authors": "Jordan Kennedy et al.",
+    "url": "https://arxiv.org/abs/2611.32966",
+    "tags": [
+      "construction",
+      "multi-robot",
+      "hydro"
+    ],
+    "code": ""
   }
 ]

@@ -4,7 +4,7 @@
 
 > 收录具身智能（Embodied AI）代表性工作，并**着重**地球科学 / 水文相关应用：水下与海洋机器人、建筑与基础设施机器人、灾害防治与应急、环境与水文监测。
 
-**Last updated:** 2026-11-23 (Asia/Shanghai)
+**Last updated:** 2026-11-26 (Asia/Shanghai)
 
 **Rules:** only verified links (arXiv / GitHub / publisher). Do **not** invent titles, IDs, or stars. Seed list in [`data/papers.json`](data/papers.json).
 
@@ -36,6 +36,7 @@
 - **A Survey on Unmanned Surface Vehicles for Disaster Robotics: Main Challenges and Directions** — Jorge et al. (2019) [[MDPI Sensors](https://www.mdpi.com/1424-8220/19/3/702)] — _USVs for disaster robotics (flood/landslide-related sensing)._
 - **State-of-the-Art Underwater Vehicles and Technologies Enabling Smart Ocean: Survey and Classifications** — Jiajie Xu et al. (2024) [[arXiv](https://arxiv.org/abs/2412.18667)] — _Survey and taxonomy of ROVs/AUVs/HUVs/USVs and smart-ocean enabling technologies._
 - **Human-Machine Interfaces for Subsea Telerobotics: From Soda-straw to Natural Language Interactions** — Adnan Abdullah et al. (2024) [[arXiv](https://arxiv.org/abs/2412.01753)] — _Review of subsea telerobotics HMIs from narrow first-person consoles to gesture, VR, and natural-language interfaces._
+- **World Models for Ocean Engineering: A Critical Review of Maritime Autonomy, Adaptive Latent Prediction, Digital Twins, and Biodiversity Monitoring** — Basma Dokkara et al. (2026) [[arXiv](https://arxiv.org/abs/2611.28978)] — _Critical review of world models for ocean engineering: maritime autonomy, latent prediction, digital twins and biodiversity monitoring._
 
 ## Foundation Embodied AI / 具身智能基础
 
@@ -106,6 +107,10 @@
 - **Differentiable Hydrodynamics for Whole-Body MPC of Underwater Robots** — Hefan Wang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.25373)] — _Differentiable analytical hydrodynamics for real-time whole-body MPC of underwater vehicle–manipulator systems._
 - **TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception** — Geonmo Yang, Younggun Cho (2024) [[arXiv](https://arxiv.org/abs/2611.22224)] [[Code](https://github.com/sparolab/TRIDENT)] *(IEEE Sensors Journal 2024)* — _Lightweight triple-task network for underwater dehazing, depth, and uncertainty, aimed at 3-D robot visual perception._
 - **ASTRA: ASV Simulator for Transferable Realistic Autonomy** — Tsimafei Lazouski et al. (2026) [[arXiv](https://arxiv.org/abs/2611.21789)] [[Code](https://github.com/UMich-CURLY/ASTRA)] — _Open-source Isaac Sim + ROS 2 ASV simulator with Fossen-style dynamics, waves, and a BlueBoat sensor stack for sim-to-real marine autonomy._
+- **A Self-Organizing Swarm Control Model for Underwater Robots Based on Turing-Type Reaction-Diffusion Principles** — Takeshi Ishida (2026) [[arXiv](https://arxiv.org/abs/2611.31637)] — _Decentralized underwater swarm formation using Turing-type reaction–diffusion rules, without GPS or neighbor position/velocity sharing._
+- **Neural Implicit Representation for Bathymetry Estimation using Sidescan Sonar Imagery** — Tianxiang Lin et al. (2026) [[arXiv](https://arxiv.org/abs/2611.33118)] — _Neural implicit representation for seafloor bathymetry estimation from AUV sidescan sonar imagery._
+- **One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics** — Shuaijun Liu et al. (2026) [[arXiv](https://arxiv.org/abs/2611.34925)] — _OneOcean: data-grounded marine-robotics simulation suite and benchmark with real bathymetry, currents, tides and optional pollution fields._
+- **GeoCAM: Self-Supervised Sonar-Optical Representation Learning via Geographic Overlap Supervision** — Fadi Abdeladhim Zidi et al. (2026) [[arXiv](https://arxiv.org/abs/2611.34218)] — _GeoCAM: self-supervised side-scan sonar ↔ underwater optical representation learning supervised by geographic overlap, for benthic habitat mapping._
 
 ### Construction & Infrastructure / 建筑与基础设施
 
@@ -121,6 +126,7 @@
 - **Joint-State Inference for Autonomous Excavators Using Cab-View Vision-Control Fusion** — Junwei Li et al. (2026) [[arXiv](https://arxiv.org/abs/2611.13690)] — _Infers excavator joint states from cab-view vision and control signals, without extra joint sensors or markers._
 - **When to Trust the BIM: Identifiability-Aware LiDAR-Inertial--BIM Fusion under As-Built Deviations** — Yujie Zhang et al. (2026) [[arXiv](https://arxiv.org/abs/2611.09045)] — _Identifiability-aware LIO–BIM fusion that accounts for as-built deviations during robot localization._
 - **Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments** — Bjorn Stragier et al. (2026) [[arXiv](https://arxiv.org/abs/2610.29647)] — _Registers scale-ambiguous VSLAM maps to 2D floor plans in partially built sites, for robotic construction tasks such as progress tracking._
+- **Multi-Agent Coordination Through Stigmergy for Canal Network Formation on Real Terrain** — Jordan Kennedy et al. (2026) [[arXiv](https://arxiv.org/abs/2611.32966)] — _Beaver-inspired stigmergic coordination of terrain-modifying robot swarms for canal-network construction on real landscapes._
 
 ### Disaster Prevention & Response / 灾害防治与应急
 
@@ -144,6 +150,7 @@
 - **RescueVLM: Model-Agnostic Vision-Language Framework for Rescue Drone Imagery** — Niklas Voigt et al. (2026) [[arXiv](https://arxiv.org/abs/2611.18813)] [[Code](https://github.com/RoblabWh/RescueVLM)] — _On-premise, training-free, model-agnostic VLM triage for rescue-drone imagery: ranked shortlist, SVG overlays, and a GPS map from a natural-language query._
 - **I See You: Initial Multi-Robot LiDAR Registration with Mutual-Observation Checks** — Jonathan Lichtenfeld, Oskar von Stryk (2026) [[arXiv](https://arxiv.org/abs/2611.26276)] — _Infrastructure-free initial multi-robot LiDAR registration with mutual-observation checks, motivated by parallel SAR coverage._
 - **Drone Navigation for Fast, Safe Emergency Response** — Pranav Nedunghat et al. (2026) [[arXiv](https://arxiv.org/abs/2611.19818)] — _Real-time minimum-time UAV trajectories with obstacle-avoidance guarantees for emergency supply delivery and survivor search._
+- **A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations** — Anubhav Pandey et al. (2026) [[arXiv](https://arxiv.org/abs/2611.29507)] — _ROS2 human-in-the-loop framework for UAV search-and-rescue operations._
 
 ### Environmental & Hydrological Monitoring / 环境与水文监测
 
